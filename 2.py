@@ -20,5 +20,5 @@ def cipher(m,n):
             print arr[i-1]
 
 
-if __name__ == '__main__':
-    cipher(25,100)
+#if __name__ == '__main__':
+ #   cipher(25,100)
